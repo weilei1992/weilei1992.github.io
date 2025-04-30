@@ -31,6 +31,7 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data. *Genome Research*, 2025.
 1. Haiyang Bian, Yixin Chen, **Lei Wei**\*, Xuegong Zhang\*. uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization. *Bioinformatics*, 2025: btaf149.
 1. Haochen Li, Tianxing Ma, Zetong Zhao, Yixin Chen, Xi Xi, Xiaofei Zhao, Xiaoxiang Zhou, Yibo Gao, **Lei Wei**\*, Xuegong Zhang. scTML: a pan-cancer single-cell landscape of multiple mutation types. *Nucleic Acids Research*, 2024: gkae898.
 1. Haoxiao Cai, Xiaoran Zhang, Rong Qiao, Xiaowo Wang\*, **Lei Wei**\*. Efficient computation by molecular competition networks. *Physical Review Research*, 2024, 6(3): 033208.
