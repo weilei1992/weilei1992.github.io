@@ -71,8 +71,8 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
   - *Journal of Theoretical Biology*
   - *National Science Review*
   - *Nature Communications*
-  - *Nature Physics*
   - *Nature Methods* 
+  - *Nature Physics*
   - *Nucleic Acids Research* 
   - *PLoS Computational Biology*
   - *Quantitative Biology*
