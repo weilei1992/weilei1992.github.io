@@ -63,16 +63,16 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 # Academic Services
 - Review activity
-  - *Nature Methods*
-  - *Nature Physics*
-  - *Nature Communications*
-  - *National Science Review*
-  - *Nucleic Acids Research*
-  - *Genome Research*
+  - *BMC Bioinformatics*
   - *Cell Genomics*
   - *Cell Reports Methods*
-  - *PLoS Computational Biology*
-  - *BMC Bioinformatics*
+  - *Genome Research*
   - *Journal of Medical Internet Research*
   - *Journal of Theoretical Biology*
+  - *National Science Review*
+  - *Nature Communications*
+  - *Nature Physics*
+  - *Nature Methods* 
+  - *Nucleic Acids Research* 
+  - *PLoS Computational Biology*
   - *Quantitative Biology*
