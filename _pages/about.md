@@ -66,9 +66,12 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
   - *Nature Methods*
   - *Nature Physics*
   - *Nature Communications*
+  - *National Science Review*
+  - *Nucleic Acids Research*
   - *Genome Research*
   - *Cell Genomics*
   - *Cell Reports Methods*
+  - *PLoS Computational Biology*
   - *BMC Bioinformatics*
   - *Journal of Medical Internet Research*
   - *Journal of Theoretical Biology*
