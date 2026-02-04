@@ -31,6 +31,7 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+1. Xi Xi, Yixin Chen, Xinze Wu, Minsheng Hao, Jiaqi Li, Haiyang Bian, Qiuchen Meng, Fanhong Li, Chen Li, Chuxi Xiao, Xiaomin Dong, Renke You, Yifan Xiong, Peng Yang, Zijing Gao, Xuejian Cui, Yan Pan, Zhen Li, Wenrui Li, Zhuofeng Li, Xiaoyang Chen, Yanfei Cui, Hairong Lv, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. hECA v2.0: an AI-ready ensemble cell atlas of single-cell RNA and ATAC sequencing data, 2025, 13: 100. [Link](https://www.nature.com/articles/s41597-025-06426-2)
 1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data. *Genome Research*, 2025.
 1. Haiyang Bian, Yixin Chen, **Lei Wei**\*, Xuegong Zhang\*. uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization. *Bioinformatics*, 2025: btaf149.
 1. Haochen Li, Tianxing Ma, Zetong Zhao, Yixin Chen, Xi Xi, Xiaofei Zhao, Xiaoxiang Zhou, Yibo Gao, **Lei Wei**\*, Xuegong Zhang. scTML: a pan-cancer single-cell landscape of multiple mutation types. *Nucleic Acids Research*, 2024: gkae898.
@@ -66,6 +67,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
   - *BMC Bioinformatics*
   - *Cell Genomics*
   - *Cell Reports Methods*
+  - *Genome Medicine*
   - *Genome Research*
   - *Journal of Medical Internet Research*
   - *Journal of Theoretical Biology*
