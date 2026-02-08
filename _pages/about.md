@@ -31,6 +31,20 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+## Works I love but are still waiting for acceptance
+
+1. [How different AI models understand cells differently](https://www.biorxiv.org/content/biorxiv/early/2026/01/30/2026.01.29.702682.full.pdf).
+2. [Unified multimodal learning enables generalized cellular response prediction to diverse perturbations](https://www.biorxiv.org/content/biorxiv/early/2026/01/24/2025.11.13.688367.full.pdf).
+3. [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://arxiv.org/pdf/2505.24173).
+4. [Benchmarking AI scientists in omics data-driven biological research](https://arxiv.org/abs/2505.08341).
+5. [GeST: Towards Building A Generative Pretrained Transformer for Learning Cellular Spatial Context](https://www.biorxiv.org/content/10.1101/2025.04.09.648072.full.pdf).
+6. [CellTok: Early-Fusion Multimodal Large Language Model for Single-Cell Transcriptomics via Tokenization](https://www.biorxiv.org/content/10.1101/2025.10.22.684047.full.pdf).
+7. [Querying functional and structural niches on spatial transcriptomics data](https://arxiv.org/pdf/2410.10652).
+8. [Benchmarking AI Models for In Silico Gene Perturbation of Cells](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629581.full.pdf).
+9. [A generic reference defined by consensus peaks for scATAC-seq data analysis](https://www.biorxiv.org/content/biorxiv/early/2024/07/03/2023.05.30.542889.full.pdf).
+
+## Published articles
+
 1. Xiaofei Zhao, **Lei Wei**\*, Zhen Xie, Xuegong Zhang\*. [NeoGuider: neoepitope prediction using advanced feature engineering](https://doi.org/10.1186/s13073-025-01592-9). *Genome Medicine*, 2026, 18: 13.
 1. Xi Xi, Yixin Chen, Xinze Wu, Minsheng Hao, Jiaqi Li, Haiyang Bian, Qiuchen Meng, Fanhong Li, Chen Li, Chuxi Xiao, Xiaomin Dong, Renke You, Yifan Xiong, Peng Yang, Zijing Gao, Xuejian Cui, Yan Pan, Zhen Li, Wenrui Li, Zhuofeng Li, Xiaoyang Chen, Yanfei Cui, Hairong Lv, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [hECA v2.0: an AI-ready ensemble cell atlas of single-cell RNA and ATAC sequencing data](https://www.nature.com/articles/s41597-025-06426-2). *Scientific Data*, 2025, 13: 100. 
 1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. [TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data](https://genome.cshlp.org/content/35/6/1429.full). *Genome Research*, 2025, 35: 1429-1439.
