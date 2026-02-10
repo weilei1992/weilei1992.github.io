@@ -42,12 +42,12 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 7. [Querying functional and structural niches on spatial transcriptomics data](https://arxiv.org/pdf/2410.10652).
 8. [Benchmarking AI Models for In Silico Gene Perturbation of Cells](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629581.full.pdf).
 
-## Published articles
+## Selected published articles
 
 1. Qiuchen Meng, Xinze Wu, Wenchang Chen, Yubo Zhao, Chen Li, Zheng Wei, Xiaocheng Zeng, Jiaqi Li, Xi Xi, Sijie Chen, Catherine Zhang, Shengquan Chen, Jiaqi Li, Xiaowo Wang, Rui Jiang , **Lei Wei**\*, Xuegong Zhang\*. [A generic reference defined by consensus peaks for single-cell ATAC-seq data analysis](https://www.nature.com/articles/s41467-026-69461-6). *Nature Communications*, 2026.
 1. Xiaofei Zhao, **Lei Wei**\*, Zhen Xie, Xuegong Zhang\*. [NeoGuider: neoepitope prediction using advanced feature engineering](https://doi.org/10.1186/s13073-025-01592-9). *Genome Medicine*, 2026.
 1. Xi Xi, Yixin Chen, Xinze Wu, Minsheng Hao, Jiaqi Li, Haiyang Bian, Qiuchen Meng, Fanhong Li, Chen Li, Chuxi Xiao, Xiaomin Dong, Renke You, Yifan Xiong, Peng Yang, Zijing Gao, Xuejian Cui, Yan Pan, Zhen Li, Wenrui Li, Zhuofeng Li, Xiaoyang Chen, Yanfei Cui, Hairong Lv, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [hECA v2.0: an AI-ready ensemble cell atlas of single-cell RNA and ATAC sequencing data](https://www.nature.com/articles/s41597-025-06426-2). *Scientific Data*, 2025. 
-1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. [TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data](https://genome.cshlp.org/content/35/6/1429.full). *Genome Research*, 2025, 35.
+1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. [TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data](https://genome.cshlp.org/content/35/6/1429.full). *Genome Research*, 2025.
 1. Haiyang Bian, Yixin Chen, **Lei Wei**\*, Xuegong Zhang\*. [uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization](https://doi.org/10.1093/bioinformatics/btaf149). *Bioinformatics*, 2025.
 2. Xiaofei Zhao, **Lei Wei**\*, Xuegong Zhang. [Computational methods and data resources for predicting tumor neoantigens](https://doi.org/10.1093/bib/bbaf302). *Briefings in Bioinformatics*, 2025.
 1. Haochen Li, Tianxing Ma, Zetong Zhao, Yixin Chen, Xi Xi, Xiaofei Zhao, Xiaoxiang Zhou, Yibo Gao, **Lei Wei**\*, Xuegong Zhang. [scTML: a pan-cancer single-cell landscape of multiple mutation types](https://doi.org/10.1093/nar/gkae898). *Nucleic Acids Research*, 2024.
