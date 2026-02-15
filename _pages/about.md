@@ -33,6 +33,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 ## Works I love but are still waiting for acceptance
 
+1. [Autoregressive forecasting of future single-cell state transitions](https://www.biorxiv.org/content/10.64898/2026.02.08.704720.full.pdf).
 1. [How different AI models understand cells differently](https://www.biorxiv.org/content/biorxiv/early/2026/01/30/2026.01.29.702682.full.pdf).
 2. [Unified multimodal learning enables generalized cellular response prediction to diverse perturbations](https://www.biorxiv.org/content/biorxiv/early/2026/01/24/2025.11.13.688367.full.pdf).
 3. [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://arxiv.org/pdf/2505.24173).
