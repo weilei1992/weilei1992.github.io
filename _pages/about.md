@@ -36,9 +36,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 1. [Autoregressive forecasting of future single-cell state transitions](https://www.biorxiv.org/content/10.64898/2026.02.08.704720.full.pdf).
 1. [How different AI models understand cells differently](https://www.biorxiv.org/content/biorxiv/early/2026/01/30/2026.01.29.702682.full.pdf).
 2. [Unified multimodal learning enables generalized cellular response prediction to diverse perturbations](https://www.biorxiv.org/content/biorxiv/early/2026/01/24/2025.11.13.688367.full.pdf).
-3. [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://arxiv.org/pdf/2505.24173).
 4. [Benchmarking AI scientists in omics data-driven biological research](https://arxiv.org/abs/2505.08341).
-5. [GeST: Towards Building A Generative Pretrained Transformer for Learning Cellular Spatial Context](https://www.biorxiv.org/content/10.1101/2025.04.09.648072.full.pdf).
 6. [CellTok: Early-Fusion Multimodal Large Language Model for Single-Cell Transcriptomics via Tokenization](https://www.biorxiv.org/content/10.1101/2025.10.22.684047.full.pdf).
 7. [Querying functional and structural niches on spatial transcriptomics data](https://arxiv.org/pdf/2410.10652).
 8. [Benchmarking AI Models for In Silico Gene Perturbation of Cells](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629581.full.pdf).
@@ -47,6 +45,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 1. Qiuchen Meng, Xinze Wu, Wenchang Chen, Yubo Zhao, Chen Li, Zheng Wei, Xiaocheng Zeng, Jiaqi Li, Xi Xi, Sijie Chen, Catherine Zhang, Shengquan Chen, Jiaqi Li, Xiaowo Wang, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [A generic reference defined by consensus peaks for single-cell ATAC-seq data analysis](https://www.nature.com/articles/s41467-026-69461-6). *Nature Communications*, 2026.
 1. Xiaofei Zhao, **Lei Wei**\*, Zhen Xie, Xuegong Zhang\*. [NeoGuider: neoepitope prediction using advanced feature engineering](https://doi.org/10.1186/s13073-025-01592-9). *Genome Medicine*, 2026.
+2. Tianhong Zhou, Yin Xu, Yingtao Zhu, Chuxi Xiao, Haiyang Bian\*, **Lei Wei**\*, Xuegong Zhang. [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://openreview.net/forum?id=fqpR9FRso9). NeurIPS, 2025.
 1. Xi Xi, Yixin Chen, Xinze Wu, Minsheng Hao, Jiaqi Li, Haiyang Bian, Qiuchen Meng, Fanhong Li, Chen Li, Chuxi Xiao, Xiaomin Dong, Renke You, Yifan Xiong, Peng Yang, Zijing Gao, Xuejian Cui, Yan Pan, Zhen Li, Wenrui Li, Zhuofeng Li, Xiaoyang Chen, Yanfei Cui, Hairong Lv, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [hECA v2.0: an AI-ready ensemble cell atlas of single-cell RNA and ATAC sequencing data](https://www.nature.com/articles/s41597-025-06426-2). *Scientific Data*, 2025. 
 1. Chen Li, Sijie Chen, Yixin Chen, Haiyang Bian, Minsheng Hao, **Lei Wei**\*, Xuegong Zhang. [TFcomb identifies transcription factor combinations for cellular reprogramming based on single-cell multiomics data](https://genome.cshlp.org/content/35/6/1429.full). *Genome Research*, 2025.
 1. Haiyang Bian, Yixin Chen, **Lei Wei**\*, Xuegong Zhang\*. [uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization](https://doi.org/10.1093/bioinformatics/btaf149). *Bioinformatics*, 2025.
