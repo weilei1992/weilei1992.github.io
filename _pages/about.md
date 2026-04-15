@@ -43,6 +43,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 ## Selected published articles
 
+1. Ziting Zhang#, **Lei Wei**#, Wenxu Wu, Hai Qi, Xiaowo Wang. [Cross-task interpretability through unified modeling reveals a universal shortcut bias in neoantigen prediction](https://doi.org/10.1016/j.xgen.2026.101214). *Cell Genomics*, 2026.
 1. Qiuchen Meng, Xinze Wu, Wenchang Chen, Yubo Zhao, Chen Li, Zheng Wei, Xiaocheng Zeng, Jiaqi Li, Xi Xi, Sijie Chen, Catherine Zhang, Shengquan Chen, Jiaqi Li, Xiaowo Wang, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [A generic reference defined by consensus peaks for single-cell ATAC-seq data analysis](https://www.nature.com/articles/s41467-026-69461-6). *Nature Communications*, 2026.
 1. Xiaofei Zhao, **Lei Wei**\*, Zhen Xie, Xuegong Zhang\*. [NeoGuider: neoepitope prediction using advanced feature engineering](https://doi.org/10.1186/s13073-025-01592-9). *Genome Medicine*, 2026.
 2. Tianhong Zhou, Yin Xu, Yingtao Zhu, Chuxi Xiao, Haiyang Bian\*, **Lei Wei**\*, Xuegong Zhang. [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://openreview.net/forum?id=fqpR9FRso9). NeurIPS, 2025.
