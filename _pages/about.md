@@ -36,7 +36,6 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 1. [Autoregressive forecasting of future single-cell state transitions](https://www.biorxiv.org/content/10.64898/2026.02.08.704720.full.pdf).
 1. [How different AI models understand cells differently](https://www.biorxiv.org/content/biorxiv/early/2026/01/30/2026.01.29.702682.full.pdf).
 2. [Unified multimodal learning enables generalized cellular response prediction to diverse perturbations](https://www.biorxiv.org/content/biorxiv/early/2026/01/24/2025.11.13.688367.full.pdf).
-4. [Benchmarking AI scientists in omics data-driven biological research](https://arxiv.org/abs/2505.08341).
 6. [CellTok: Early-Fusion Multimodal Large Language Model for Single-Cell Transcriptomics via Tokenization](https://www.biorxiv.org/content/10.1101/2025.10.22.684047.full.pdf).
 7. [Querying functional and structural niches on spatial transcriptomics data](https://arxiv.org/pdf/2410.10652).
 8. [Benchmarking AI Models for In Silico Gene Perturbation of Cells](https://www.biorxiv.org/content/biorxiv/early/2024/12/22/2024.12.20.629581.full.pdf).
