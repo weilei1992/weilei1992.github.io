@@ -42,6 +42,7 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 ## Selected published articles
 
+1. Tianhong Zhou, Yixin Chen\*, Yingtao Zhu, Jinmeng Jia, Xuegong Zhang, **Lei Wei**\*. [Cross-dataset annotation harmonization for cell-type hierarchy construction](https://doi.org/10.1093/bioinformatics/btag506). *Bioinformatics*, 2026.
 1. Ziting Zhang#, **Lei Wei**#, Wenxu Wu, Hai Qi, Xiaowo Wang. [Cross-task interpretability through unified modeling reveals a universal shortcut bias in neoantigen prediction](https://doi.org/10.1016/j.xgen.2026.101214). *Cell Genomics*, 2026.
 1. Qiuchen Meng, Xinze Wu, Wenchang Chen, Yubo Zhao, Chen Li, Zheng Wei, Xiaocheng Zeng, Jiaqi Li, Xi Xi, Sijie Chen, Catherine Zhang, Shengquan Chen, Jiaqi Li, Xiaowo Wang, Rui Jiang, **Lei Wei**\*, Xuegong Zhang\*. [A generic reference defined by consensus peaks for single-cell ATAC-seq data analysis](https://www.nature.com/articles/s41467-026-69461-6). *Nature Communications*, 2026.
 1. Xiaofei Zhao, **Lei Wei**\*, Zhen Xie, Xuegong Zhang\*. [NeoGuider: neoepitope prediction using advanced feature engineering](https://doi.org/10.1186/s13073-025-01592-9). *Genome Medicine*, 2026.
